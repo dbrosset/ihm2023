@@ -1,2 +1,2 @@
 # ihm2023
-dfdf
+Dans ce git vous allez pouvoir mettre le code de vos applications.
